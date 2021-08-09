@@ -1,2 +1,2 @@
-# FirstRepo
-My first repository to experiment and exercise with git.
+# SoftUni
+A repository to upload a code of my exercises in SoftUni.
