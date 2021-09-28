@@ -1,0 +1,14 @@
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\bin\Debug\netcoreapp3.1\MatrixSuffering.exe
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\bin\Debug\netcoreapp3.1\MatrixSuffering.deps.json
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\bin\Debug\netcoreapp3.1\MatrixSuffering.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\bin\Debug\netcoreapp3.1\MatrixSuffering.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\bin\Debug\netcoreapp3.1\MatrixSuffering.dll
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\bin\Debug\netcoreapp3.1\MatrixSuffering.pdb
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.csproj.AssemblyReference.cache
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.dll
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.pdb
+D:\Softuni Exersices\CshAdvanced\MatrixSuffering\obj\Debug\netcoreapp3.1\MatrixSuffering.genruntimeconfig.cache
