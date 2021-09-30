@@ -1,0 +1,14 @@
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.AssemblyReference.cache
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+D:\Softuni Exersices\CshAdvanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache

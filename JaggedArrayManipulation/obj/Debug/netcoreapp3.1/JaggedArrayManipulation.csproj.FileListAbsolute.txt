@@ -1,0 +1,14 @@
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\bin\Debug\netcoreapp3.1\JaggedArrayManipulation.exe
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\bin\Debug\netcoreapp3.1\JaggedArrayManipulation.deps.json
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\bin\Debug\netcoreapp3.1\JaggedArrayManipulation.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\bin\Debug\netcoreapp3.1\JaggedArrayManipulation.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\bin\Debug\netcoreapp3.1\JaggedArrayManipulation.dll
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\bin\Debug\netcoreapp3.1\JaggedArrayManipulation.pdb
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.csproj.AssemblyReference.cache
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.dll
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.pdb
+D:\Softuni Exersices\CshAdvanced\JaggedArrayManipulation\obj\Debug\netcoreapp3.1\JaggedArrayManipulation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.exe
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.deps.json
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csproj.AssemblyReference.cache
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+D:\Softuni Exersices\CshAdvanced\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.genruntimeconfig.cache
