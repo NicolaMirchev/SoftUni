@@ -1,0 +1,15 @@
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\SetsOfElements.exe
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\SetsOfElements.deps.json
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\SetsOfElements.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\SetsOfElements.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\SetsOfElements.dll
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\ref\SetsOfElements.dll
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\bin\Debug\net5.0\SetsOfElements.pdb
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.dll
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\ref\SetsOfElements.dll
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.pdb
+D:\Softuni Exersices\CshAdvanced\SetsOfElements\obj\Debug\net5.0\SetsOfElements.genruntimeconfig.cache
