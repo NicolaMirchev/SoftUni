@@ -1,0 +1,15 @@
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\Operations.exe
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\Operations.deps.json
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\Operations.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\Operations.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\Operations.dll
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\ref\Operations.dll
+D:\Softuni Exersices\CshAdvanced\Operations\bin\Debug\net5.0\Operations.pdb
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.dll
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\ref\Operations.dll
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.pdb
+D:\Softuni Exersices\CshAdvanced\Operations\obj\Debug\net5.0\Operations.genruntimeconfig.cache
