@@ -25,7 +25,7 @@ namespace IteratorsAndComparators
 
         public IEnumerator<Book> GetEnumerator()
         {
-            return new LibraryIterator(books);
+            return books.GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator()
