@@ -1,0 +1,14 @@
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\bin\Debug\netcoreapp3.1\IenumerableTest.exe
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\bin\Debug\netcoreapp3.1\IenumerableTest.deps.json
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\bin\Debug\netcoreapp3.1\IenumerableTest.runtimeconfig.json
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\bin\Debug\netcoreapp3.1\IenumerableTest.runtimeconfig.dev.json
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\bin\Debug\netcoreapp3.1\IenumerableTest.dll
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\bin\Debug\netcoreapp3.1\IenumerableTest.pdb
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.csproj.AssemblyReference.cache
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.AssemblyInfoInputs.cache
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.AssemblyInfo.cs
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.csproj.CoreCompileInputs.cache
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.dll
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.pdb
+D:\Softuni Exersices\CshAdvanced\IenumerableTest\obj\Debug\netcoreapp3.1\IenumerableTest.genruntimeconfig.cache
