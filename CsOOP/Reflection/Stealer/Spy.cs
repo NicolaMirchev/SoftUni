@@ -8,6 +8,31 @@ namespace Stealer
 {
     class Spy
     {
+
+        public string AnalyzeAccessModifiers(string className)
+        {
+            Type type = Type.GetType(className);
+            FieldInfo[] fields = type.GetFields(BindingFlags.Instance | BindingFlags.Public | BindingFlags.Static);
+            MethodInfo[] PublicMethods = type.GetMethods(BindingFlags.Instance | BindingFlags.Public);
+            MethodInfo[] PrivateMethods = type.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance);
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var field in fields)
+            {
+                sb.AppendLine($"{field.Name} must be private!");
+            }
+            foreach (var mehod in PrivateMethods.Where(m => m.Name.StartsWith("get")))
+            {
+                sb.AppendLine($"{mehod.Name} must be public!");
+            }
+            foreach (var method in PublicMethods.Where(m => m.Name.StartsWith("set")))
+            {
+                sb.AppendLine($"{method.Name} must be private!");
+            }
+
+            return sb.ToString();
+        }
         public string StealFieldInfo(string nameOfTheClass, params string[] fieldsToInvestigate)
         {
             StringBuilder sb = new StringBuilder();
