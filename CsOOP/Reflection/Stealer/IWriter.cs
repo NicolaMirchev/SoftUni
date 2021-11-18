@@ -6,5 +6,6 @@ namespace Stealer
 {
     interface IWriter
     {
+        void Write(string data) ;
     }
 }
