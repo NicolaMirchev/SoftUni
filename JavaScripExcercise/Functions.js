@@ -1,31 +1,39 @@
-function solve (area, vol, data){
+function solve(data, criteria) {
 
-    const cubes = JSON.parse(data);
-    const result = [];
+    const employees = JSON.parse(data);
 
-    for (cube of cubes){
+    const criteriaAsArray = criteria.split('-');
 
-        const currentObj = {area : area.apply(cube),
-        vol : vol.apply(cube)};
-            result.push(currentObj);
+    const result = employees.filter(e => e[criteriaAsArray[0]] == criteriaAsArray[1])
+
+    for (let i = 0;  i < result.length; i++){
+
+        
+       console.log(i + '.' + ' ' + result[i].first_name + result[i].last_name + ' - ' + result[i].email);
     }
-    return result;
+
+
 }
 
-let data = `[
-    {"x":"1","y":"2","z":"10"},
-    {"x":"7","y":"7","z":"10"},
-    {"x":"5","y":"2","z":"10"}
-    ]`;
-    
-
-console.log(solve(area, vol, data));
-
-
-function area(){
-    return Math.abs(this.x * this.y);
- };
-
- function vol(){
-    return Math.abs(this.x * this.y * this.z);
-    };
+console.log(solve(`[{
+    "id": "1",
+    "first_name": "Ardine",
+    "last_name": "Bassam",
+    "email": "abassam0@cnn.com",
+    "gender": "Female"
+    }, {
+    "id": "2",
+    "first_name": "Kizzee",
+    "last_name": "Jost",
+    "email": "kjost1@forbes.com",
+    "gender": "Female"
+    },
+    {
+    "id": "3",
+    "first_name": "Evanne",
+    "last_name": "Maldin",
+    "email": "emaldin2@hostgator.com",
+    "gender": "Male"
+    }]`,
+    'gender-Female'
+    )); 
